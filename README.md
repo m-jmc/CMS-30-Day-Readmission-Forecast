@@ -1,23 +1,6 @@
----
-title: "CMS 30 Day Readmission"
-author: "Mike"
-date: "3/9/2020"
-output: 
-  html_document:
-    toc: TRUE
-    keep_md: TRUE
----
-
-
-
 ## CMS 30 Day Readmission Prediction
 
 
-
-
-
-
-## Readmission Rate 
 
 The hospital readmission rate PUF presents nation-wide information about inpatient hospital stays that occurred within 30 days of a previous inpatient hospital stay (readmissions) for Medicare fee-for-service beneficiaries. Readmissions rates are unadjusted for age, health status or other factors.
 
